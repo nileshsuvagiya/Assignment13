@@ -1,0 +1,6 @@
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\obj\Debug\CSharpAssignment13.csprojResolveAssemblyReference.cache
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\bin\Debug\CSharpAssignment13.exe.config
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\bin\Debug\CSharpAssignment13.exe
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\bin\Debug\CSharpAssignment13.pdb
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\obj\Debug\CSharpAssignment13.exe
+C:\Users\ashahi\Desktop\NileshSuvagiya\GIT_PROJECT\Assignment13\CSharpAssignment13\CSharpAssignment13\obj\Debug\CSharpAssignment13.pdb
